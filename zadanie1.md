@@ -48,7 +48,7 @@ Odpowiedz: 4
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/b7a35da8-816d-4a3a-83ca-d6aaa6dadd63)
 
 
-![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/e48ed44b-d80a-43c2-8b7d-ead6a09e032a)
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/16edb866-a38a-453a-8b0f-198177a1fc03)
 
 
 

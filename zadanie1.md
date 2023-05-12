@@ -47,8 +47,17 @@ Odpowiedz: 4
 
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/b7a35da8-816d-4a3a-83ca-d6aaa6dadd63)
 
+# Zadanie dodatkowe (Konkurs)
+
+<h4>Wynik skanu przy pomocy: docker scout<h4>
 
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/16edb866-a38a-453a-8b0f-198177a1fc03)
+
+<h4>Wielkość stworzonego obrazu</h4>
+
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/cab8adf4-a361-48ea-8fed-cf6a0bff11cf)
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/f32984ff-bbc0-40b3-860e-5b074fdbde5a)
+
 
 
 

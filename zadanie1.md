@@ -20,4 +20,7 @@ Sprawdzenie poprawności wyświetlanych informacji na stronie:
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/5d8b86a3-4ecb-4c4d-ae94-4b6af47dd610)
 
 
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/e48ed44b-d80a-43c2-8b7d-ead6a09e032a)
+
+
 

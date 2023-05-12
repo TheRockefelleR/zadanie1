@@ -8,6 +8,10 @@
 Polecenie do zbudowania obrazu to: docker build -t `nazwa` .
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/f60add9a-7193-49a1-8a4f-413a004b6d08)
 
+<h4>b. uruchomienia kontenera na podstawie zbudowanego obrazu</h4>
+
+Polecenie do uruchomienia kontenera na podstawie obrazu to: docker run -d -p `port_zewentrzny`:`port_wewnetrzny` --name `nazwa_kontenera` `nazwa_obrazu`
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/c88171c3-d1da-4454-9e66-85c712b62205)
 
 
 <h4>c. sposobu uzyskania informacji, które wygenerował serwer w trakcie uruchamiana kontenera</h4>

@@ -30,10 +30,9 @@ Sprawdzenie poprawności wyświetlanych informacji na stronie:
 2. Przy pomocy przeglądarki
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/5d8b86a3-4ecb-4c4d-ae94-4b6af47dd610)
 
-<h4></h4>
-Sprawdzenie ilości warstw
-![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/f74862b0-0bac-4732-aa12-58ddd36cb781)
-
+<h4>d. sprawdzenia, ile warstw posiada zbudowany obraz</h4>
+Polecenie: docker inspect `nazwa_obrazu` | jq '.[].RootFS'
+Odpowiedz: 4
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/b7a35da8-816d-4a3a-83ca-d6aaa6dadd63)
 
 

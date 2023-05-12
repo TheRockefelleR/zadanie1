@@ -34,6 +34,8 @@ Sprawdzenie poprawności wyświetlanych informacji na stronie:
 Sprawdzenie ilości warstw
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/f74862b0-0bac-4732-aa12-58ddd36cb781)
 
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/b7a35da8-816d-4a3a-83ca-d6aaa6dadd63)
+
 
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/e48ed44b-d80a-43c2-8b7d-ead6a09e032a)
 

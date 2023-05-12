@@ -4,7 +4,9 @@
 <h2>Polecenia niezbędne do:</h2>
 
 <h4>c. sposobu uzyskania informacji, które wygenerował serwer w trakcie uruchamiana kontenera</h4>
+
 Sprawdzenie poprawności wygenerowanych logów:
+
 1. Przy pomocy polecenia docker logs `nazwa_kontenera`
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/fa52f891-9e9c-4613-8d8a-667715d4ba88)
 2. Przy pomocy docker desktor

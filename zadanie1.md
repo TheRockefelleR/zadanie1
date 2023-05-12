@@ -3,6 +3,13 @@
 # PKT. 3
 <h2>Polecenia niezbędne do:</h2>
 
+<h4>a. zbudowania opracowanego obrazu kontenera</h4>
+
+Polecenie do zbudowania obrazu to <quote>aaa</quote>
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/f60add9a-7193-49a1-8a4f-413a004b6d08)
+
+
+
 <h4>c. sposobu uzyskania informacji, które wygenerował serwer w trakcie uruchamiana kontenera</h4>
 
 Sprawdzenie poprawności wygenerowanych logów:

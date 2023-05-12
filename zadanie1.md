@@ -10,7 +10,7 @@ uruchomienia, imieniu i nazwisku autora serwera (imię i nazwisko studenta) oraz
 TCP, na którym serwer nasłuchuje na zgłoszenia klienta.</h4>
 
 Sprawdzenie poprawności wykonanego punktu:
-1. Przy pomocy polecenie docker logs `nazwa_kontenera`
+1. Przy pomocy polecenia docker logs `nazwa_kontenera`
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/fa52f891-9e9c-4613-8d8a-667715d4ba88)
 2. Przy pomocy docker desktor
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/c17ed818-88ae-4e41-86aa-efc6286b3a87)
@@ -18,6 +18,12 @@ Sprawdzenie poprawności wykonanego punktu:
 <h4>b. na podstawie adresu IP klienta łączącego się z serwerem, w przeglądarce powinna 
 zostać wyświetlona strona informująca o adresie IP klienta i na podstawie tego adresu IP, 
 o dacie i godzinie w jego strefie czasowej.</h4>
+
+Sprawdzenie poprawności wykonanego punktu:
+1. Przy pomocy polecenia curl 127.0.0.1:`PORT`
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/683f9e5f-3b60-4e12-b663-472e611de972)
+2. Przy pomocy przeglądarki
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/5d8b86a3-4ecb-4c4d-ae94-4b6af47dd610)
 
 
 

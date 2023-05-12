@@ -47,7 +47,7 @@ Odpowiedz: 4
 
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/b7a35da8-816d-4a3a-83ca-d6aaa6dadd63)
 
-# Zadanie dodatkowe (Konkurs)
+# Punkty dodatkowe (Konkurs)
 
 <h4>Wynik skanu przy użyciu docker scout<h4>
 

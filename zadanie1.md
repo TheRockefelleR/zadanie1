@@ -6,7 +6,7 @@
 
 # PKT. 2
 
-![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/c9ed22f4-9585-4fb5-aab8-16abed29c2ed)
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/b061d0c3-6d2e-45df-9ee1-9ce4f028ffc9)
 
 
 # PKT. 3

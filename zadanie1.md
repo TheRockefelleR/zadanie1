@@ -49,7 +49,7 @@ Odpowiedz: 4
 
 # Zadanie dodatkowe (Konkurs)
 
-<h4>Wynik skanu przy pomocy: docker scout<h4>
+<h4>Wynik skanu przy użyciu docker scout<h4>
 
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/16edb866-a38a-453a-8b0f-198177a1fc03)
 

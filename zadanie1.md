@@ -19,9 +19,9 @@ Polecenie: docker run -d -p `port_zewentrzny`:`port_wewnetrzny` --name `nazwa_ko
 Sprawdzenie poprawności wygenerowanych logów:
 
 1. Przy pomocy polecenia docker logs `nazwa_kontenera`
-![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/fa52f891-9e9c-4613-8d8a-667715d4ba88)
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/72f89033-90bd-464a-9ae2-6da61b4814fe)
 2. Przy pomocy docker desktor
-![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/c17ed818-88ae-4e41-86aa-efc6286b3a87)
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/8fd9b9e8-9336-425b-bb2d-0f7501723455)
 
 
 Sprawdzenie poprawności wyświetlanych informacji na stronie:

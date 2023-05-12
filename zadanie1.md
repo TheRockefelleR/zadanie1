@@ -1,5 +1,14 @@
 # Zadanie nr. 1
 
+# PKT. 1
+
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/40b222b1-532e-49ce-90fd-8eaeb3bf3a28)
+
+# PKT. 2
+
+![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/c9ed22f4-9585-4fb5-aab8-16abed29c2ed)
+
+
 # PKT. 3
 <h2>Polecenia niezbędne do:</h2>
 

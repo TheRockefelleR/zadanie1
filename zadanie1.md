@@ -5,7 +5,7 @@
 
 <h4>a. zbudowania opracowanego obrazu kontenera</h4>
 
-Polecenie do zbudowania obrazu to <quote>aaa</quote>
+Polecenie do zbudowania obrazu to: docker build -t `nazwa` .
 ![image](https://github.com/TheRockefelleR/zadanie1/assets/84729968/f60add9a-7193-49a1-8a4f-413a004b6d08)
 
 
